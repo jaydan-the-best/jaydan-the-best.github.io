@@ -1,0 +1,18 @@
+* {
+    left: 0;
+    right: 0;
+    border: border-box;
+}
+
+.inline {
+    display: inline;
+}
+
+.center {
+    text-align: center;
+}
+  
+
+.black {
+    color: black;
+}
